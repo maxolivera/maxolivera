@@ -1,9 +1,20 @@
 # 👋 Hi there! I'm Max Olivera
 
-* 🚀 **Passionate about Backend Development** and **Distributed Systems**—always exploring deeper.
-* 💻 **Coding in Go**, with some tolerance for Python, JavaScript, and C.
-* 📚 Currently diving into distributed systems and backend development to sharpen my expertise.
- 
-Although primarily focused on backend work, I have a budding interest in **Game Development**—especially the graphics and game engine side. Looking forward to exploring that once I complete my current learning goals!
+* 🚀 **Full-stack Developer** leaning towards backend, working with **microservices** and **REST APIs**
+* 💻 Currently building with **C#/.NET** and **Go**, exploring **Rust** on the side
+* 📚 Deepening my understanding of distributed systems, concurrency, and backend architecture
+* 🎯 Interested in systems-level programming and performance optimization
 
-Feel free to reach out if you’d like to connect or collaborate: maximo.a.olivera@gmail.com
+## What I'm working on
+- Developing microservices and REST APIs with C# (.NET 6/8) and SQL Server
+- Building frontend components with Vue.js and TypeScript
+- Learning distributed systems concepts and async programming patterns
+- Exploring Rust through personal projects and coursework
+- Studying computer science fundamentals (algorithms, data structures, systems design)
+
+## Tech stack
+**Professional**: C#, .NET, SQL Server, PostgreSQL, Docker, Vue.js, TypeScript  
+**Personal/Learning**: Go, Rust, Kubernetes, AWS  
+**Tools**: Linux, Git, Postman
+
+Feel free to reach out: maximo.a.olivera@gmail.com
