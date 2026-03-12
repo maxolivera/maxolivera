@@ -13,8 +13,7 @@
 - Studying computer science fundamentals (algorithms, data structures, systems design)
 
 ## Tech stack
-**Professional**: C#, .NET, SQL Server, PostgreSQL, Docker, Vue.js, TypeScript  
-**Personal/Learning**: Go, Rust, Kubernetes, AWS  
+C#, .NET, SQL Server, PostgreSQL, Docker, Vue.js, TypeScript, Go, Rust, Kubernetes, AWS  
 **Tools**: Linux, Git, Postman
 
 Feel free to reach out: maximo.a.olivera@gmail.com
