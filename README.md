@@ -1,19 +1,15 @@
-# 👋 Hi there! I'm Max Olivera
+# Max Olivera
 
-* 🚀 **Full-stack Developer** leaning towards backend, working with **microservices** and **REST APIs**
-* 💻 Currently building with **C#/.NET** and **Go**, exploring **Rust** on the side
-* 📚 Deepening my understanding of distributed systems, concurrency, and backend architecture
-* 🎯 Interested in systems-level programming and performance optimization
+Backend engineer based in Argentina. I build systems where performance, correctness, and operability are the product, not afterthoughts.
 
-## What I'm working on
-- Developing microservices and REST APIs with C# (.NET 6/8) and SQL Server
-- Building frontend components with Vue.js and TypeScript
-- Learning distributed systems concepts and async programming patterns
-- Exploring Rust through personal projects and coursework
-- Studying computer science fundamentals (algorithms, data structures, systems design)
+## What I work on
 
-## Tech stack
-C#, .NET, SQL Server, PostgreSQL, Docker, Vue.js, TypeScript, Go, Rust, Kubernetes, AWS  
-**Tools**: Linux, Git, Postman
+Production backend services in Go and C#, with TypeScript on the edges. Rust as a personal track for systems-level work. End-to-end ownership from architecture through deployment and operations.
 
-Feel free to reach out: maximo.a.olivera@gmail.com
+## Interests
+
+Distributed systems, performance engineering, low-level programming, P2P protocols, and self-hosting infrastructure. The boundary between application and infrastructure is where I find the work most interesting.
+
+## Contact
+
+maximo.a.olivera@gmail.com
